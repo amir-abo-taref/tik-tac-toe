@@ -1,5 +1,5 @@
 body{
-  background-image: url('https://media.istockphoto.com/vectors/tictactoe-back-to-school-background-doodle-tic-tac-toe-game-pen-and-vector-id989794376?s=612x612');
+  background-image: url('https://images.unsplash.com/photo-1597113366853-fea190b6cd82?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80');
   width:100%;
   height:100%;
 }
@@ -19,7 +19,7 @@ body{
 /* Game */
 .game {
   position: absolute;
-  top: 50%;
+  top: 48%;
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
@@ -37,6 +37,7 @@ body{
   border-radius:40%;
   text-align: center;
   width: 30rem;
+  height:38rem;
   background-image: url('https://images.unsplash.com/photo-1515446134809-993c501ca304?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80');
   
 }
@@ -55,7 +56,6 @@ h1{
   color:white;
   text-align: center;
   font-size:2rem;
-
-
 }
+
 
